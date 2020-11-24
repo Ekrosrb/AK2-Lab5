@@ -6,14 +6,14 @@
 
 ![Image alt](https://github.com/Ekrosrb/AK2-Lab5/raw/master/screenshots/basicModinfo.png)
 
-### parameter (count) test ###
+### parameter (count) test (all parameters in screenshot) ###
 
 ![Image alt](https://github.com/Ekrosrb/AK2-Lab5/raw/master/screenshots/basicParameterTest.png)
 
 
 ## Advanced work ##
 
-### insmod hello1 (all parameters in screenshot) ###
+### insmod hello1 ###
 
 ![Image alt](https://github.com/Ekrosrb/AK2-Lab5/raw/master/screenshots/advancedHelloCreate.png)
 
