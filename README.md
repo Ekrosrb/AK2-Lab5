@@ -1,6 +1,6 @@
 # Лабораторна робота №5 #
 
-## Basic work##
+## Basic work ##
 
 ### modinfo hello ###
 
