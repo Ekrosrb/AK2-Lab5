@@ -21,7 +21,7 @@
 
 ![Image alt](https://github.com/Ekrosrb/AK2-Lab5/raw/master/screenshots/advancedHello2Count5.png)
 
-####\ insmod hello2 count=8 ###
+### insmod hello2 count=8 ###
 
 ![Image alt](https://github.com/Ekrosrb/AK2-Lab5/raw/master/screenshots/advancedHello2Count8.png)
 
